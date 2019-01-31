@@ -1,0 +1,14 @@
+[general]
+project=test
+
+[checks]
+error=reviewers,whitespace
+
+[census]
+version=0
+
+[checks "whitespace"]
+suffixes=.txt
+
+[checks "reviewers"]
+minimum=1
