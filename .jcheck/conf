@@ -1,0 +1,15 @@
+[general]
+project=test
+
+[checks]
+error=author,reviewers,whitespace
+
+[census]
+version=0
+domain=openjdk.java.net
+
+[checks "whitespace"]
+files=.*\.txt
+
+[checks "reviewers"]
+minimum=1
