@@ -1,0 +1,28 @@
+
+From test@test.mail  Mon Jul 01 10:42:19 2019
+From: test at test.mail (sbot2[bot] via github.com)
+Sender: test at test.mail (test)
+Date: Mon, 1 Jul 2019 10:42:19 +0200
+Subject: RFR: This is a pull request
+Message-Id: <BnB05dLPIW315sJbp-dY9iaBGQT_ugZBXAF95j4HIk8=.ad1f6558-e1a7-4bbe-84bc-60cf08265667@github.com>
+PR-Head-Hash: 8ead570476c8d89daa22426bd25e0fcbf07bde28
+PR-Base-Hash: 7885c29fc503917b6d1a4a19e9bb9680e323346f
+
+This is now ready
+
+----------------
+
+Commits:
+ - 8ead5704:	Original msg
+
+Pull request:
+https://github.com/rwestberg/skara-integration/pull/725
+
+Webrev:
+http://www.test.test/test/725/webrev.00
+
+Patch:
+https://github.com/rwestberg/skara-integration/pull/725.diff
+
+Fetch command:
+git fetch https://github.com/rwestberg/skara-integration.git 8ead5704:pr/725
