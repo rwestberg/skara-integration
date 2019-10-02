@@ -1,2 +1,2 @@
 The very first line
-A line with a trailing whitespace   
+A line without a trailing whitespace
