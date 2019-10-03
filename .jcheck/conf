@@ -1,0 +1,16 @@
+[general]
+project=test
+jbs=tstprj
+
+[checks]
+error=issues
+
+[census]
+version=0
+domain=openjdk.java.net
+
+[checks "whitespace"]
+files=.*\.txt
+
+[checks "reviewers"]
+minimum=1
