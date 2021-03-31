@@ -1,0 +1,17 @@
+[general]
+project=test
+jbs=tstprj
+version=0.1
+
+[checks]
+error=whitespace,reviewers,author
+
+[census]
+version=0
+domain=openjdk.java.net
+
+[checks "whitespace"]
+files=.*\.txt
+
+[checks "reviewers"]
+reviewers=1
